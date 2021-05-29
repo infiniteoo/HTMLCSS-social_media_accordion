@@ -185,4 +185,12 @@ header h1 {
     }
 }
 
-
+@media(max-width: 680px) {
+    .container {
+        width: 95%;
+    }
+    .accordion {
+        width: 100%;
+        min-width: 350px;
+    }
+}
