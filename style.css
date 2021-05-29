@@ -46,5 +46,11 @@ header h1 {
     overflow: hidden;
     position: relative;
     margin: 0;
+    transition: all 0.5s ease-in-out 0.1s;
 }
+
+.tab:hover {
+    width: 450px;
+}
+
 
